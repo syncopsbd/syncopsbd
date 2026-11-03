@@ -1,164 +1,183 @@
 <div align="center">
 
-<h1>Syncopsbd - Architecting Next-Gen Software & Digital Solutions</h1>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36,45&height=220&section=header&text=SyncOps%20BD&fontSize=52&fontAlignY=38&desc=Architecting%20Next-Gen%20Digital%20Solutions%20%7C%20Dhaka%2C%20Bangladesh&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="SyncOps BD Banner" />
 
-<a href="https://syncopsbd.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Websites+%26+Web+Applications;Mobile+Apps+(iOS+%26+Android);Custom+ERP+%2F+CRM+%2F+POS+Software;Legacy+Modernization+%26+Code+Refactoring;24%2F7+DevOps+%26+SLA+Support;API+Integration+%26+AI+Automation" alt="Typing SVG" /></a>
+<!-- TYPING ANIMATION -->
+<a href="https://syncopsbd.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=780&height=50&lines=%E2%9A%A1+Enterprise+ERP+%26+Multi-Branch+Inventory+Platforms;%F0%9F%8D%BD%EF%B8%8F+Smart+Cloud+POS+for+Cafes+%26+Restaurants;%F0%9F%9A%80+Modern+Web+%26+Mobile+Engineering+(Next.js%2C+Flutter%2C+React);%F0%9F%9B%A1%EF%B8%8F+24%2F7+Cloud+DevOps%2C+SLA+Support+%26+Modernization" alt="SyncOps BD Capabilities" />
+</a>
 
-<br/>
+<p align="center">
+  <b>SyncOps BD</b> is a premier software engineering studio based in Dhaka, Bangladesh.<br/>
+  We build resilient, hyper-scalable enterprise applications, cloud POS systems, and bespoke digital solutions for forward-thinking businesses.
+</p>
 
-[![Website](https://img.shields.io/badge/Website-syncopsbd.com-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white)](https://syncopsbd.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-01943006504-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801943006504)
-[![Email](https://img.shields.io/badge/Email-support@syncopsbd.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@syncopsbd.com)
-[![Location](https://img.shields.io/badge/Dhaka-Bangladesh-f43f5e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://syncopsbd.com/contact/)
+<!-- STATUS PILLS / BADGES -->
+<p align="center">
+  <a href="https://syncopsbd.com"><img src="https://img.shields.io/badge/Website-syncopsbd.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website" /></a>
+  <a href="mailto:support@syncopsbd.com"><img src="https://img.shields.io/badge/Email-support%40syncopsbd.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+8801943006504"><img src="https://img.shields.io/badge/Phone-+880_1943--006504-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Phone" /></a>
+  <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-🟢_24%2F7_Active_Ops-10b981?style=for-the-badge" alt="Active Status" />
+</p>
 
 </div>
 
 ---
 
-## 👋 About Syncopsbd
+### 🌐 Live Production Deployments & Ecosystem
 
-**Syncopsbd** is an agile software engineering studio based in **Dhaka, Bangladesh**, founded by **Nahidul Islam**. We bridge modern design with enterprise scalability: turnkey web platforms, cross-platform mobile apps, bespoke ERP/CRM systems, and round-the-clock DevOps support.
+Here is a showcase of our flagship live platforms and enterprise systems:
 
-<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th width="35%">🚀 Solution / Platform</th>
+      <th width="35%">📌 Key Highlights & Modules</th>
+      <th width="30%">🔗 Live Portal / Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>🏢 SyncOps BD Corporate Portal</b><br/>
+        <i>Official Company Website & Services Hub</i>
+      </td>
+      <td>
+        • Modern Next.js high-speed architecture<br/>
+        • Full-spectrum service showcase<br/>
+        • Direct client consultation portal
+      </td>
+      <td>
+        <a href="https://syncopsbd.com" target="_blank">
+          <img src="https://img.shields.io/badge/Explore-syncopsbd.com-0284c7?style=flat-square&logo=safari&logoColor=white" alt="SyncOps BD Portal"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📦 SyncOps Cloud Inventory & ERP</b><br/>
+        <i>Next-Gen Multi-Branch Stock & POS</i>
+      </td>
+      <td>
+        • Multi-warehouse & batch inventory tracking<br/>
+        • Supplier purchase & automated invoicing<br/>
+        • Barcode scanning & real-time analytics
+      </td>
+      <td>
+        <a href="https://inventory.syncopsbd.com" target="_blank">
+          <img src="https://img.shields.io/badge/Launch-inventory.syncopsbd.com-10b981?style=flat-square&logo=databricks&logoColor=white" alt="Inventory Platform"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🍽️ SyncOps Cafe & Restaurant POS</b><br/>
+        <i>Smart Dining, Billing & KOT System</i>
+      </td>
+      <td>
+        • Live Kitchen Order Tickets (KOT) workflow<br/>
+        • Dine-in table status & split billing<br/>
+        • Recipe costing & dynamic daily audit reports
+      </td>
+      <td>
+        <a href="https://cafe.syncopsbd.com" target="_blank">
+          <img src="https://img.shields.io/badge/Launch-cafe.syncopsbd.com-f59e0b?style=flat-square&logo=coffeescript&logoColor=white" alt="Cafe POS"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🏬 New H Brothers Inventory</b><br/>
+        <i>Tailored Enterprise Distribution Suite</i>
+      </td>
+      <td>
+        • Wholesale & distribution logistics<br/>
+        • Credit management & ledger audits<br/>
+        • Enterprise grade role-based access control
+      </td>
+      <td>
+        <a href="https://new-h-brothers.syncopsbd.com" target="_blank">
+          <img src="https://img.shields.io/badge/Launch-new--h--brothers-6366f1?style=flat-square&logo=target&logoColor=white" alt="New H Brothers"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<img src="assets/terminal.svg" alt="syncopsbd terminal animation" width="85%"/>
+---
 
-</div>
+### ⚡ What We Specialize In
 
-## 📊 At a Glance
-
-<div align="center">
-
-| 🚀 **50+** | 😍 **99.8%** | 🛟 **24/7** | 🔑 **100%** |
-|:---:|:---:|:---:|:---:|
-| Delivered Solutions | Client Satisfaction | Dedicated Support | Source Code Handover |
-
-</div>
-
-## 🛠️ What We Do
-
-| Service | What You Get |
-|---|---|
-| 🌐 **Website & Web Application Development** | Next.js 16, React, TypeScript & Tailwind CSS. E-commerce with bKash, Nagad, Stripe. SEO-optimized, 99+ Lighthouse score. Admin dashboards & CMS. |
-| 📱 **Mobile App Development (iOS & Android)** | Flutter & React Native. Offline-first sync, push notifications, biometrics, Play Store / App Store submission. |
-| 🧩 **Custom Software Engineering** | ERP, CRM, POS, School/Hospital Management, HR/Payroll, Supply Chain. RBAC, multi-branch, invoicing, barcode & inventory tracking. |
-| ♻️ **Software Modification & Upgrades** | Code refactoring, bug fixing, DB/query optimization, UI/UX redesign, new module integration, with zero data loss. |
-| 🛡️ **24/7 Support & Maintenance** | Incident response, daily cloud backups, server scaling (AWS, GCP, Vercel, DigitalOcean), SSL & security audits. |
-| 🤖 **API, Cloud & AI Automation** | REST/GraphQL APIs, bKash/Nagad/SSLCommerz/Stripe/PayPal, Bulk SMS & WhatsApp API, Docker/Kubernetes, AI chatbots. |
-
-## 🚀 Our Live Products
-
-<div align="center">
-
-| Product | Description | Link |
-|---|---|---|
-| 🏢 **Syncopsbd Official** | Company website: services, portfolio, careers & contact | [syncopsbd.com](https://syncopsbd.com) |
-| 📦 **Inventory & Sales ERP** | Smart stock, billing & hardware POS portal. Multi-unit tracking, real-time alerts, instant billing & printing, customer ledger, role-based access | [inventory.syncopsbd.com](https://inventory.syncopsbd.com) |
-| 🔩 **NEW H & BROTHERS** | Inventory & Sales ERP deployment for a hardware business | [new-h-brothers.syncopsbd.com](https://new-h-brothers.syncopsbd.com) |
-| ☕ **Cafe & Restaurant POS** | Point-of-sale system for cafes and restaurants | [cafe.syncopsbd.com](https://cafe.syncopsbd.com) |
-
-</div>
-
-### ✨ Inventory & Sales ERP Highlights
-
-- 📦 **Inventory, Stocks & Accounts**: multi-unit tracking & real-time alerts
-- 🧾 **Point of Sale (POS)**: instant billing, printing & customer ledger
-- 🔐 **Role-Based Access**: secure portal for Admin & Sales Managers
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-![bKash](https://img.shields.io/badge/bKash-E2136E?style=for-the-badge)
-![Nagad](https://img.shields.io/badge/Nagad-F6921E?style=for-the-badge)
-![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0A66C2?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20Gemini-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-## 🔄 Our Agile Process
-
-```mermaid
-flowchart LR
-    A["01 🧭 Discovery & Architecture"] --> B["02 🎨 UI/UX & Prototyping"]
-    B --> C["03 ⚙️ Agile Engineering & QA"]
-    C --> D["04 🚀 Cloud Launch & 24/7 SLA"]
-    style A fill:#0e7490,stroke:#22d3ee,color:#fff
-    style B fill:#6d28d9,stroke:#a78bfa,color:#fff
-    style C fill:#047857,stroke:#34d399,color:#fff
-    style D fill:#b45309,stroke:#fbbf24,color:#fff
+```ascii
+ ╔═══════════════════════════════════════════════════════════════════════════╗
+ ║  ENTERPRISE ERP  │  SMART RESTAURANT POS  │  MOBILE & WEB APPS  │  DEVOPS ║
+ ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-| Phase | Key Outputs |
-|---|---|
-| **01 Discovery & System Architecture** | Architecture diagram, ERD, milestone timeline, transparent budget lock |
-| **02 Interactive UI/UX & Prototyping** | Figma hi-fi screens, design system, responsive flows, clickable prototype |
-| **03 Agile Engineering & Code Sprints** | Clean documented code, Git access, API & security hardening, QA |
-| **04 Cloud Launch & 24/7 SLA** | Zero-downtime deploy, staff training, daily backups, 24/7 support channel |
+<details open>
+<summary><b>🔹 1. Custom Enterprise Software & ERPs</b></summary>
+<br/>
 
-## 🏆 Featured Works
+Customized ERP, Inventory, Supply Chain, and CRM solutions engineered to automate operational workflows, eliminate stock leakage, and give management 360° visibility.
+- Multi-branch inventory & warehouse synchronization
+- POS billing with offline support & thermal receipt printing
+- Automated ledger bookkeeping & accounting reconciliations
+</details>
 
-- 🛒 **OmniSync ERP & Multi-Branch POS**: 28 stores, 3.8x faster checkout (Next.js, Node.js, PostgreSQL, Docker, bKash API)
-- 🏥 **HealthPulse Telemedicine App**: 85,000+ users (Flutter, WebRTC, FastAPI, MongoDB, Redis)
-- 🏦 **Legacy FinTech Portal Modernization**: -68% CPU load, zero downtime (Next.js, PostgreSQL, Redis)
-- 🛍️ **Aura Commerce Headless Store**: 99/100 Lighthouse (Next.js 16, Tailwind, Stripe, SSLCommerz)
-- 🚚 **FleetOps Logistics Tracking**: 22.4% fuel cost saved (React, Python, MQTT, AWS IoT)
+<details open>
+<summary><b>🔹 2. High-Performance Web & Mobile Engineering</b></summary>
+<br/>
 
-## 🤝 Why Syncopsbd?
+We engineer digital products with speed, clean architecture, and modern UX standards.
+- **Web Applications:** Next.js (App Router), React, TypeScript, Tailwind CSS
+- **Mobile Apps:** Cross-platform Flutter and React Native with native bridge performance
+- **Fintech Integrations:** Seamless checkout via bKash, Nagad, Rocket, SSLCommerz, and Stripe
+</details>
 
-- ✅ **100% IP handover**: full ownership of Git repositories, schemas & source code
-- ✅ **Direct founder-level oversight**: zero-middleman accountability
-- ✅ **Modern stack**: Next.js 16, Flutter, PostgreSQL, Docker
-- ✅ **24/7 SLA support** with a dedicated engineer helpline
+<details open>
+<summary><b>🔹 3. Legacy Modernization & Code Refactoring</b></summary>
+<br/>
 
-## 📬 Let's Build Something Remarkable
+Stuck with slow, outdated legacy codebases? We refactor monolithic, legacy PHP/ASP systems into modern, decoupled microservices with high uptime and zero data loss.
+</details>
+
+<details open>
+<summary><b>🔹 4. 24/7 Cloud DevOps & Infrastructure Reliability</b></summary>
+<br/>
+
+- Containerized deployments with Docker & Kubernetes
+- CI/CD automated deployment pipelines
+- Automated daily backups, SSL enforcement & DDoS protection
+- Proactive SLA monitoring and incident mitigation
+</details>
+
+---
+
+### 🛠️ Technology Stack & Tooling
 
 <div align="center">
 
-| 🌐 Website | 💬 WhatsApp (24/7) | 📧 Email | 📍 HQ |
-|:---:|:---:|:---:|:---:|
-| [syncopsbd.com](https://syncopsbd.com) | [01943-006504](https://wa.me/8801943006504) | [support@syncopsbd.com](mailto:support@syncopsbd.com) | Dhaka, Bangladesh |
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,nodejs,express,postgres,mysql,redis,docker,aws,nginx,git,linux&perline=8" alt="Tech Stack Icons" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![Request a Free Proposal](https://img.shields.io/badge/Request_a_Free_Proposal-22d3ee?style=for-the-badge&logo=rocket&logoColor=black)](https://syncopsbd.com/contact)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:34d399&height=120&section=footer" width="100%"/>
-
-<sub>© 2026 Syncopsbd. All Rights Reserved. Built with Next.js 16 & Turbopack.</sub>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | `Next.js` • `React.js` • `TypeScript` • `Tailwind CSS` • `Redux Toolkit` • `Shadcn UI` |
+| **Mobile** | `Flutter` • `React Native` • `Dart` • `Android SDK` • `iOS (Swift)` |
+| **Backend & APIs** | `Node.js` • `Express.js` • `RESTful APIs` • `GraphQL` • `Prisma` • `Supabase` |
+| **Databases** | `PostgreSQL` • `MySQL` • `Redis (Caching)` • `MongoDB` |
+| **Cloud & DevOps** | `Docker` • `AWS` • `Vercel` • `DigitalOcean` • `Nginx` • `Cloudflare` • `CI/CD Pipelines` |
+| **Payments** | `bKash Developer API` • `Nagad PGW` • `SSLCommerz` • `Stripe` • `AmarPay` |
 
 </div>
+
+---
+
+### 📈 Operational Excellence & Impact
+
+<div align="center">
