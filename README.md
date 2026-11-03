@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Syncopsbd - Architecting Next-Gen Software & Digital Solutions" width="100%"/>
+<img src="https://avatars.githubusercontent.com/u/352016103?v=4&size=64" alt="Syncopsbd - Architecting Next-Gen Software & Digital Solutions" width="100%"/>
 
 <a href="https://syncopsbd.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Websites+%26+Web+Applications;Mobile+Apps+(iOS+%26+Android);Custom+ERP+%2F+CRM+%2F+POS+Software;Legacy+Modernization+%26+Code+Refactoring;24%2F7+DevOps+%26+SLA+Support;API+Integration+%26+AI+Automation" alt="Typing SVG" /></a>
 
